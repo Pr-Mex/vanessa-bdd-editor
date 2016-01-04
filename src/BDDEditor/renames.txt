@@ -9,10 +9,15 @@
 94f1eb98-f248-476e-a8ac-794b7b47f874-->und\94f1eb98-f248-476e-a8ac-794b7b47f874
 94f1eb98-f248-476e-a8ac-794b7b47f874.0-->Form\Форма
 9afcf80e-b447-4b0e-abcc-427858f5cb88-->und\9afcf80e-b447-4b0e-abcc-427858f5cb88
+9afcf80e-b447-4b0e-abcc-427858f5cb88.0-->und\9afcf80e-b447-4b0e-abcc-427858f5cb88.0
+9afcf80e-b447-4b0e-abcc-427858f5cb88.0-->und\9afcf80e-b447-4b0e-abcc-427858f5cb88.0
 9afcf80e-b447-4b0e-abcc-427858f5cb88.0-->Form\ФормаУправляемая\Форма.txt
-9afcf80e-b447-4b0e-abcc-427858f5cb88.0-->und\9afcf80e-b447-4b0e-abcc-427858f5cb88.0
-9afcf80e-b447-4b0e-abcc-427858f5cb88.0-->und\9afcf80e-b447-4b0e-abcc-427858f5cb88.0
 copyinfo-->und\copyinfo
+da83f6c3-70f2-4013-a2a6-5f1efe2e4b69-->und\da83f6c3-70f2-4013-a2a6-5f1efe2e4b69
+da83f6c3-70f2-4013-a2a6-5f1efe2e4b69.0-->Макеты\ПерехватКлавиатуры.txt
+da83f6c3-70f2-4013-a2a6-5f1efe2e4b69.0-->und\da83f6c3-70f2-4013-a2a6-5f1efe2e4b69.0
+da969ffb-7dff-4fbc-8e77-73563c46a186.0\info-->und\da969ffb-7dff-4fbc-8e77-73563c46a186.0\info
+da969ffb-7dff-4fbc-8e77-73563c46a186.0\text-->ObjectModule.txt
 root-->und\root
 version-->und\version
 versions-->und\versions
