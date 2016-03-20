@@ -13,6 +13,9 @@
 9afcf80e-b447-4b0e-abcc-427858f5cb88.0-->und\9afcf80e-b447-4b0e-abcc-427858f5cb88.0
 9afcf80e-b447-4b0e-abcc-427858f5cb88.0-->und\9afcf80e-b447-4b0e-abcc-427858f5cb88.0
 copyinfo-->und\copyinfo
+da83f6c3-70f2-4013-a2a6-5f1efe2e4b69-->und\da83f6c3-70f2-4013-a2a6-5f1efe2e4b69
+da83f6c3-70f2-4013-a2a6-5f1efe2e4b69.0-->Макеты\ПерехватКлавиатуры.txt
+da83f6c3-70f2-4013-a2a6-5f1efe2e4b69.0-->und\da83f6c3-70f2-4013-a2a6-5f1efe2e4b69.0
 root-->und\root
 version-->und\version
 versions-->und\versions
